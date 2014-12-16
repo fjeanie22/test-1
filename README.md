@@ -52,6 +52,7 @@
 # 3. Bootstrap
 
 Bootstrap - это просто. Это самый короткий путь к тому чтобы понять как верстать грамотные и пуленепробиваемые сайты.
+Вводная есть тут http://wpcraft.ru/kak-verstat-sovremennye-sajty-tratya-minimum-vremeni-bystro-obuchayas-srazu-krossbrauzerno-i-adaptivno-ili-kak-pravilno-ispolzovat-bootstrap/
 
 3.1. Сделайте вывод 4-х блоков данных в форме сетки 2х2
 
