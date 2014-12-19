@@ -45,9 +45,9 @@
 
 2.1. У каждого фильма после описания выводим "Страну" и "Жанр", а также "Стоимость" и "Дату выхода". Сделать это можно двумя методами, через правку шаблона дочерней темы и через хуки.
 
-2.2. На странице списка фильмов выводим через хук. http://wpcraft.ru/dobavlyaem-informatsiyu-o-zapisi-na-sajte-bez-pravki-shablona-cherez-huk-the_content-wordpress/
+2.2. На странице отдельного фильма выводим через хук. http://wpcraft.ru/dobavlyaem-informatsiyu-o-zapisi-na-sajte-bez-pravki-shablona-cherez-huk-the_content-wordpress/
 
-2.3.  На странице отдельного фильма выводим через создание и правку шаблона. Нужно создать шаблон архива типа записи в дочерней теме. Подсказка тут http://truemisha.ru/blog/wordpress/template-hierarchy.html
+2.3.  На странице списка фильмов выводим через создание и правку шаблона. Нужно создать шаблон архива типа записи в дочерней теме. Подсказка тут http://truemisha.ru/blog/wordpress/template-hierarchy.html
 
 # 3. Bootstrap
 
