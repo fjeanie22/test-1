@@ -25,7 +25,7 @@
 
 # 1. База и модель (Model)
 
-1.1. Ставим чистый WordPress на бесплатный хостинг типа http://www.hostinger.ru/ или https://www.openshift.com/ или можно использовать свой хостинг (при наличии)
+1.1. Ставим чистый WordPress на бесплатный хостинг типа http://0hosting.me/ или https://www.openshift.com/ (это для продвинутых) или можно использовать свой хостинг (при наличии)
 
 1.2. Поставить тему Unite http://wordpress.org/themes/unite (она несет на борту Bootstrap 3) или нашу WPBSS http://wpbss.im4b.ru/
 
